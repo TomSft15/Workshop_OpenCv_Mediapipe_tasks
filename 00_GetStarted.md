@@ -11,6 +11,6 @@ pip install mediapipe
 2.1. Get and create an array with position of each landmarks
 
 3. Create a hand_solution.py file that put a mesh on your hand.
-3.1. Get and create an array with position of each landmarks
+                                                                                                                                                         3.1. Get and create an array with position of each landmarks
 
 Useful link: https://google.github.io/mediapipe/solutions/solutions
