@@ -5,6 +5,6 @@ Workshop organized by Thomas Fiancette, Eliot Baratte and Hugo Guihéneuf for Ep
 You will discover computer vision doing small tasks:
 
 * [**00 - Get Started**](00_GetStarted.md)
-* [**01 - Emotions Detection**](01_Emotions.md)
-* [**02 - Fingers detection**](02_Fingers.md)
-* [**03 - Sign Language Detection**](03_SignLanguage.md)
+* [**01 - Fingers detection**](01_Fingers.md)
+* [**02 - Sign Language Detection**](02_SignLanguage.md)
+* [**03 - Emotions Detection (Bonus)**](03_Emotions.md)
